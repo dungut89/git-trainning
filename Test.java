@@ -1,7 +1,6 @@
 1
 release
 dev
-dev1
 import android.os.Bundle;
 import androidx.databinding.DataBindingUtil;
 import androidx.fragment.app.FragmentGravity;
