@@ -1,4 +1,4 @@
-1
+4
 import android.os.Bundle;
 import androidx.databinding.DataBindingUtil;
 import androidx.fragment.app.FragmentGravity;
