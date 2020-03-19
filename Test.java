@@ -1,6 +1,6 @@
 import android.os.Bundle;
 import androidx.databinding.DataBindingUtil;
-import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentDataBindingUtil;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
